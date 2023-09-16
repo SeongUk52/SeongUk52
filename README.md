@@ -1,6 +1,8 @@
 # 정성욱 
 
-### [TIL 바로가기](https://github.com/SeongUk52/TIL)
+## [우테코 6기 준비 중](https://github.com/SeongUk52/TIL/blob/cabf0a966bb281daf13f0e145b8ae8e9adc77f54/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/%EC%9A%B0%ED%85%8C%EC%BD%94_6%EA%B8%B0_%EC%A4%80%EB%B9%84/%EC%9A%B0%ED%85%8C%EC%BD%94_6%EA%B8%B0_%EC%A4%80%EB%B9%84.md)
+
+## [TIL 바로가기](https://github.com/SeongUk52/TIL)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongUk52&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
