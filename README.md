@@ -2,7 +2,14 @@
 
 ## [velog](https://velog.io/@seonguk52/posts)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongUk52&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 배포 중인 서비스
+
+### [투두앱](https://nextjs-todo-p2irzf64a-seunguks-projects-2c9dd11b.vercel.app/)
+
+- 서버리스로 제작한 Next.js 프로젝트로 next.js의 기능과 웹개발의 전반적인 영역들을 학습을 위해 제작함
+
+
 
 
 ### 백준
@@ -11,12 +18,6 @@
 <img src="http://mazandi.herokuapp.com/api?handle=seonguk52&theme=warm"/>
 
 
-### 기술스택
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongUk52)](https://github.com/SeongUk52/github-readme-stats)
 <!---
