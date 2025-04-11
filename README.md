@@ -5,7 +5,7 @@
 
 ## 배포 중인 서비스
 
-### [투두앱](https://nextjs-todo-p2irzf64a-seunguks-projects-2c9dd11b.vercel.app/)
+### [투두앱](https://nextjs-todo-app-phi-gilt.vercel.app/)
 
 - 서버리스로 제작한 Next.js 프로젝트로 next.js의 기능과 웹개발의 전반적인 영역들을 학습을 위해 제작함
 
