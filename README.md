@@ -9,7 +9,9 @@
 
 - 서버리스로 제작한 Next.js 프로젝트로 next.js의 기능과 웹개발의 전반적인 영역들을 학습을 위해 제작함
 
+### [스택 타워 (2025.11.24 ~ )](https://blockstacking-game.netlify.app/)
 
+- 우아한 테크코스 프리코스 [마지막 미션](https://github.com/SeongUk52/javascript-openmission-8)
 
 
 ### 백준
