@@ -1,7 +1,7 @@
 # 정성욱 
 
 ## [velog](https://velog.io/@seonguk52/posts)
-
+## [포트폴리오](https://seong-uk52.notion.site/2c17f5f76f0c809c909ac32d4c45b73e?source=copy_link)
 
 ## 배포 중인 서비스
 
